@@ -54,13 +54,6 @@ Introducing a bespoke streaming platform inspired by SonyLIV! Our cutting-edge c
    + Embark on your entertainment journey with the SonyLIV Clone.
    + Discover, watch, and enjoy a wide variety of shows and movies hassle-free.
   
-## About Developer
-  <div style="text-align: center; padding: 20px; background-color: #f0f0f0;">
-    <img src="https://d3dyfaf3iutrxo.cloudfront.net/thumbnail/user/b0cf990eaa7e4211ac34b8ef5d4e5817.jpeg" alt="Profile Image" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; margin-top: 10px;">
-    <div style="margin-top: 10px; font-size: 14px;">
-      <p>I am Abhishek Kumar, and I have undertaken a personal project assigned by Newton School. Through this endeavor, I have showcased my proficiency in various full stack web development technologies and frameworks. From designing intuitive user interfaces to implementing robust functionalities, I have strived to create a project that reflects my skills and dedication as a developer</p>
-      <p>LinkedIn: <a href="https://www.linkedin.com/in/abhishek-kumar-741864193/">Abhishek Kumar</a></p>
-    </div>
 
 ## License
 This project is released under the permissive MIT License, allowing for free use, modification, and distribution.
