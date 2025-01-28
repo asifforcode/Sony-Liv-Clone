@@ -23,7 +23,7 @@ Introducing a bespoke streaming platform inspired by SonyLIV! Our cutting-edge c
 
 **Usage:**
  1. Explore a World of Entertainment:
-   + Visit the SonyLIV Clone website: https://sonylivclone.netlify.app/
+   + Visit the SonyLIV Clone website: https://sony-live.netlify.app/
    + Discover an array of categories, shows, and movies tailored to your preferences.
      
 2. Easy Navigation and Signup:
