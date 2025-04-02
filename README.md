@@ -52,7 +52,7 @@ Introducing a bespoke streaming platform inspired by SonyLIV! Our cutting-edge c
 
 8. Start Exploring Now:
    + Embark on your entertainment journey with the SonyLIV Clone.
-   + Discover, watch, and enjoy a wide variety of shows and movies hassle-free.
+   + Discover, watch, and enjoy a wide variety of shows and movies hassle free.
   
 
 ## License
